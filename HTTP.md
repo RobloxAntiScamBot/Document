@@ -17,3 +17,7 @@ Step 2 - https://prnt.sc/wib2pl
 Step 3 - https://prnt.sc/wib32o
 
 Step 4 - https://prnt.sc/wib3at
+
+<p align="center">
+    <a href="https://discordapp.com/oauth2/authorize?client_id=298796807323123712&scope=bot&permissions=402656264"><img src="/assets/Add_RoVer.png" alt="Add" /></a>
+</p>
