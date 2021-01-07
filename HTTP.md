@@ -17,3 +17,9 @@ Step 2 - https://prnt.sc/wib2pl
 Step 3 - https://prnt.sc/wib32o
 
 Step 4 - https://prnt.sc/wib3at
+
+# More Assistance!
+
+Still stuck? No worries!
+
+Here is a YouTube video to help - https://www.youtube.com/watch?reload=9&v=y3MF4HrCpGM
