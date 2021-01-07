@@ -17,7 +17,3 @@ Step 2 - https://prnt.sc/wib2pl
 Step 3 - https://prnt.sc/wib32o
 
 Step 4 - https://prnt.sc/wib3at
-
-<p align="center">
-    <a href="https://raw.githubusercontent.com/RobloxAntiScamBot/Document/main/Assets/GameSettings.png"><img src="/assets/GameSettings.png" alt="GameSettings" /></a>
-</p>
